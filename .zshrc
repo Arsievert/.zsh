@@ -12,7 +12,7 @@
 export ZSH="$HOME/.oh-my-zsh"
 
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="candy"
+ZSH_THEME="amuse"
 
 # Uncomment one of the following lines to change the auto-update behavior
 zstyle ':omz:update' mode reminder  # just remind me to update when it's time
